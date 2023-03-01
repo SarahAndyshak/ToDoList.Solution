@@ -57,3 +57,5 @@ There are multiple branches in this repo that are described more below.
 - https://www.learnhowtoprogram.com/c-and-net/basic-web-applications/using-static-content
 - https://www.learnhowtoprogram.com/c-and-net/basic-web-applications/layouts-and-partials
 
+# Personal Reminder:
+because this project uses a cloned branch, commits must be made with git push origin 1_mvc_setup
